@@ -1,0 +1,52 @@
+div a img{
+  display: none;
+}
+
+.profile{
+	width:200px;
+	height:200px;
+	border-radius:150px;
+}
+
+.light-black{
+	color:#ffffff;
+	text-shadow: .4px .1px black;
+}
+
+
+h5{
+	color:black;
+	text-shadow: .2px .1px black;
+}
+
+
+.color-blue{
+	background-color: #306288;
+}
+
+.color-light-blue{
+	background-color: #356d97;
+}
+
+.color-light-light-blue{
+	background-color: #76bdd5;
+}
+
+.color-light-gray{
+	background-color: #EADEDB;
+}
+
+h2{
+	color: #c3c3c3;
+}
+
+.parallax { 
+    /* The image used */
+    background-image: url("../img/1920x1080/01.jpg");
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
