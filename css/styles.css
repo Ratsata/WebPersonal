@@ -50,3 +50,30 @@ h2{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.parallax-02 { 
+    /* The image used */
+    background-image: url("../img/1920x1080/02-min.jpg");
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-contact {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+    border-radius:150px;
+}
+
+.contact{
+    border-radius:50px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
